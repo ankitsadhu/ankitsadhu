@@ -1,4 +1,4 @@
-# Hi there,I'm [Ankit!](http://ankitsadhu.me/) 👋
+# Hi there, I'm [Ankit!](http://ankitsadhu.me/) 👋
 
 I'm a passionate and hardworking software engineer,who loves to take new challenges. I'm always looking forward to learn new skills & hone them to mastery.
 I have interest in Data Structure, Algorithms & problem Solving.
@@ -20,7 +20,7 @@ Languages & Tools: <br>
 <code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"></code>
 
 
-
+<br>
 Contact with me:
 
 <a href="mailto:ankitsadhu3@gmail.com">
