@@ -6,6 +6,18 @@ I have interest in Data Structure & Algorithms & problem Solving.
 
 
 Languages & Tools:
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"></code>
+<code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"></code>
+
+
 
 Contact with me:
 
@@ -18,6 +30,6 @@ Contact with me:
 </a>
 
 <a href="https://www.instagram.com/ankit.sadhu/">
-  <img align="left" alt="Ankit Sadhu | Instagram " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
+  <img align="left" alt="Ankit Sadhu | Instagram " width="42px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
 </a>
 
