@@ -26,11 +26,11 @@ Contact with me:
   <img align="left" alt="ankitsadhu3@gmail.com" width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/icons8-gmail-48.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/ankitsadhu1998/">
+<a href="https://www.linkedin.com/in/ankitsadhu1998/" target="_blank">
   <img align="left" alt="Ankit Sadhu | Linkedin " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/linkedin.png" />
 </a>
 
-<a href="https://www.instagram.com/ankit.sadhu/">
+<a href="https://www.instagram.com/ankit.sadhu/" target="_blank">
   <img align="left" alt="Ankit Sadhu | Instagram " width="44px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
 </a>
 
