@@ -14,7 +14,7 @@ Contact with me:
 </a>
 
 <a href="https://www.linkedin.com/in/ankitsadhu1998/">
-  <img align="left" alt="Ankit Sadhu | Linkedin " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/icons8-linkedin-circled-48.png" />
+  <img align="left" alt="Ankit Sadhu | Linkedin " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/linkedin.png" />
 </a>
 
 <a href="https://www.instagram.com/ankit.sadhu/">
