@@ -1,11 +1,12 @@
 # Hi there,I'm [Ankit!](http://ankitsadhu.me/) 👋
 
-I'm a passionate and hardworking software engineer,who loves to take new challenges. I  am always looking forward to learn new skills & hone them to mastery.
+I'm a passionate and hardworking software engineer,who loves to take new challenges. I'm always looking forward to learn new skills & hone them to mastery.
 I have interest in Data Structure, Algorithms & problem Solving.
 
 
 
-Languages & Tools:
+Languages & Tools: <br>
+
 <code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png"></code>
 <code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png"></code>
 <code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png"></code>
