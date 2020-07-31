@@ -20,7 +20,7 @@ Languages & Tools: <br>
 <code><img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"></code>
 
 
-<br>
+
 Contact with me:
 
 <a href="mailto:ankitsadhu3@gmail.com">
