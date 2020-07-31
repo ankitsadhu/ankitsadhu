@@ -31,6 +31,6 @@ Contact with me:
 </a>
 
 <a href="https://www.instagram.com/ankit.sadhu/">
-  <img align="left" alt="Ankit Sadhu | Instagram " width="45px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
+  <img align="left" alt="Ankit Sadhu | Instagram " width="42px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
 </a>
 
