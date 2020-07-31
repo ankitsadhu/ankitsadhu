@@ -18,6 +18,6 @@ Contact with me:
 </a>
 
 <a href="https://www.instagram.com/ankit.sadhu/">
-  <img align="left" alt="Ankit Sadhu | Linkedin " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/icons8-instagram-48.png" />
+  <img align="left" alt="Ankit Sadhu | Instagram " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
 </a>
 
