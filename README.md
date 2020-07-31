@@ -13,14 +13,11 @@ Contact with me:
   <img align="left" alt="ankitsadhu3@gmail.com" width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/icons8-gmail-48.png" />
 </a>
 
-I m skilled in 
+<a href="https://www.linkedin.com/in/ankitsadhu1998/">
+  <img align="left" alt="Ankit Sadhu | Linkedin " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/icons8-linkedin-circled-48.png" />
+</a>
 
-|    Topic          |  Languages/Subjects.                                     |                             
-|-------------------|----------------------------------------------------------|
-| CS Fundamentals   | C, Java , Data Structures, Algorithms, Operating System  |
-| Web Development   | HTML, CSS, Bootstrap, JavaScript, ReactJS, NodeJS, P5.js |
-| Machine Learning  | Python, Numpy, Pandas, Scikit Learn, Tensorflow, Keras   |
-| Mobile Development| Android in Java, Flutter                                 |
-| DB Languages      | MySQL, MongoDB                                           |
-| Hardware          | Arduino, Raspberry PI                                    |
+<a href="https://www.instagram.com/ankit.sadhu/">
+  <img align="left" alt="Ankit Sadhu | Linkedin " width="48px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/icons8-instagram-48.png" />
+</a>
 
