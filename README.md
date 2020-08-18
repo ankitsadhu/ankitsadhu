@@ -35,3 +35,14 @@ Contact with me:
   <img align="left" alt="Ankit Sadhu | Instagram " width="44px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
 </a>
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>  
+  <!--START_SECTION:activity-->
+  1. Creating a ML app for medical 🩺 😷
+  2. Github Campus Expert 🚩
+  3. Learning something cool, is yet to upload 😉
+  
+  <!--END_SECTION:activity-->
+
+</details>
+
