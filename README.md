@@ -7,17 +7,17 @@ I have interest in Data Structure, Algorithms & problem Solving.
 
 Languages & Tools: <br>
 
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png">][HTML5]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png">][CSS3]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png">][JS]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png">][ReactJS]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png">][NodeJS]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mysql.png">][MySQL]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png">][MongoDB]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png">][Python]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png">][Java]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png">][Android]
-[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png">][Flutter]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png"/>][HTML5]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png"/>][CSS3]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png"/>][JS]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png"/>][ReactJS]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png"/>][NodeJS]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mysql.png"/>][MySQL]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png"/>][MongoDB]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png"/>][Python]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png"/>][Java]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"/>][Android]
+[<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/>][Flutter]
 
 
 
