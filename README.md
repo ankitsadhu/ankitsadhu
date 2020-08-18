@@ -7,17 +7,17 @@ I have interest in Data Structure, Algorithms & problem Solving.
 
 Languages & Tools: <br>
 
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mysql.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"/>
-<img align="left" height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/><br>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mysql.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/><br>
 
 
 
