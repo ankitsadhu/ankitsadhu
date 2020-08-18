@@ -7,17 +7,17 @@ I have interest in Data Structure, Algorithms & problem Solving.
 
 Languages & Tools: <br>
 
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mysql.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png">
-<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png">
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/html.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/css3.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/javascript.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/reactjs.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/nodejs.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mysql.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png">]
+[<img height="20" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png">]
 
 
 
