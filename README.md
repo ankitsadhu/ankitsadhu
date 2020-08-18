@@ -17,7 +17,7 @@ I have interest in Data Structure, Algorithms & problem Solving.
 <img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png"/>
 <img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png"/>
 <img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"/>
-<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/><br><br>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/><br />
 
 
 
@@ -34,6 +34,7 @@ Contact with me:
 <a href="https://www.instagram.com/ankit.sadhu" target="_blank">
   <img align="left" alt="Ankit Sadhu | Instagram " width="44px" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/instagram.png" />
 </a>
+<br />
 
 <details>
   <summary>:zap: Recent Github Activity</summary>  
