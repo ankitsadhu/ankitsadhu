@@ -16,8 +16,8 @@ I have interest in Data Structure, Algorithms & problem Solving.
 <img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/mongodb.png"/>
 <img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/python.png"/>
 <img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/java.png"/>
-<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"/>
-<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/><br><br>
+<!--img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/android.png"/>
+<img align="left" height="26" src="https://github.com/ankitsadhu/ankitsadhu/blob/master/flutter.png"/><br><br-->
 
 
 
